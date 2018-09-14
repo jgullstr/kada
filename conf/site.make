@@ -1,5 +1,7 @@
 ; Drush Make file for local definitions.
 ; --------------------------------------
+core = 7.x
+
 
 ; Include the KADA Make file.
 includes[] = kadaproject.make
